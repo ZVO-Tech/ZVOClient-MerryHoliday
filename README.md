@@ -1,6 +1,6 @@
-# Marry Holiday — Genting Tour Operations Console
+# Merry Holiday — Genting Tour Operations Console
 
-A lightweight, browser-based operations management console developed for Marry Holiday to oversee Genting tour coach bookings, passenger manifests, schedule coordination, and real-time seat allocations.
+A lightweight, browser-based operations management console developed for Merry Holiday to oversee Genting tour coach bookings, passenger manifests, schedule coordination, and real-time seat allocations.
 
 ---
 
@@ -49,4 +49,4 @@ The Genting Tour Operations Console provides front-desk and transport dispatch t
 To launch the console locally:
 
 1. Open the project folder in your local file explorer.
-2. Double-click `index.html` (or `Marry Holiday - Genting Tour Console.html`) to open directly in any modern web browser (Chrome, Edge, Firefox, Safari).
+2. Double-click `index.html` (or `merry Holiday - Genting Tour Console.html`) to open directly in any modern web browser (Chrome, Edge, Firefox, Safari).
