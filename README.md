@@ -49,4 +49,4 @@ The Genting Tour Operations Console provides front-desk and transport dispatch t
 To launch the console locally:
 
 1. Open the project folder in your local file explorer.
-2. Double-click `index.html` (or `merry Holiday - Genting Tour Console.html`) to open directly in any modern web browser (Chrome, Edge, Firefox, Safari).
+2. Double-click `index.html` (or `Merry Holiday - Genting Tour Console.html`) to open directly in any modern web browser (Chrome, Edge, Firefox, Safari).
